@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
             return b;
         }
     }
-
     /**
      *
      * @param a integer number
@@ -35,7 +34,6 @@ public class MainActivity extends AppCompatActivity {
             return a;
         }
     }
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
